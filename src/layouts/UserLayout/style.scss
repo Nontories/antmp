@@ -1,0 +1,13 @@
+.user-layout {
+  grid-template-columns: calc(15.1875rem) auto;
+  display: grid;
+
+  &__left {
+  }
+
+  &__right {
+    background: rgb(0, 0, 0);
+    overflow: hidden;
+  }
+
+}
